@@ -17,7 +17,7 @@ dat <- readRDS("./dat.rds")
 ## The y-axis label is 'Global Active Power (kilowatts)': ylab="Global Active Power (kilowatts)".
 ## The x-axis label is empty: xlab="".
 ## (1) Note: the x-axis tick marks on my system are in Dutch, but this
-## is likely locale setting related; *but* all letters are lower case,
+## must be locale setting related; *but* all letters are lower case,
 ## contrary to example plot -> so going with custom tick marks..
 
 
