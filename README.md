@@ -1,3 +1,6 @@
+## !Instructions for setting up the data!
+The plotN.r scripts load a .rds data file, which is a serialized (and already subsetted) data frame. The .rds file can be made available to the plotN.r scripts by either running the script 'serialize_subset.R' or by directly downloading the 'dat.rds' from the github folder. The generated or downloaded 'dat.rds' should be put in the same directory as the plotN.r scripts.
+
 ## Introduction
 
 This assignment uses data from
